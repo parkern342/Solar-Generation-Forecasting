@@ -1,7 +1,7 @@
 # Solar-Generation-Forecasting
 A random forest regression model trained on solar generation data for 24 hour ahead forecasting.
 
-This model was my final project for CS 458 - Intro to Data Mining. The goal of this project to create a 24 hour ahead forecasting model for solar power generation at three solar plants in Australia. 
+This model was my final project for UNR CS 458 - Intro to Data Mining. The goal of this project to create a 24 hour ahead forecasting model for solar power generation at three solar plants in Australia. 
 
 We were given the freedom to choose any model or method to achieve a low error score. 
 
